@@ -50,11 +50,9 @@ export function HeroSection({ stats, onScrollDown }: HeroSectionProps) {
                     <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[120%] h-[120%] bg-main-gradient opacity-20 blur-3xl -z-10 rounded-full"></div>
 
                     <div className="flex flex-col gap-8 lg:pl-12 border-l border-border/40">
-                        {/* Stats Context Tag */}
-                        <div className="inline-flex items-center gap-2 mb-2">
-                            <div className="h-px w-8 bg-muted-foreground/50"></div>
-                            <span className="text-sm font-medium text-muted-foreground uppercase tracking-widest">
-                                Statistics (2024-25)
+                        <div className="inline-flex items-center mb-6">
+                            <span className="text-xs font-light text-primary bg-primary/5 px-3 py-1 rounded-full uppercase tracking-[0.2em] border border-primary/10">
+                                2024-25
                             </span>
                         </div>
 

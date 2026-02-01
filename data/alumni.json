@@ -7,7 +7,7 @@
         "current_position": "Researcher",
         "organization": "IISER Pune",
         "image": "/alumni-images/Suraj Lakhchaura.jpeg",
-        "profile_url": "https://www.iiserpune.ac.in/research/department/physics/people/faculty/associate-professors/atikur-rahman/people"
+        "profile_url": "https://www.linkedin.com/in/suraj-lakhchaura-57371b283/"
     },
     {
         "id": "c2",
@@ -17,7 +17,7 @@
         "current_position": "Post-Doctoral Fellow",
         "organization": "University of Birmingham",
         "image": "/alumni-images/Shruti Chakravarty.jpeg",
-        "profile_url": "https://www.clarkgroupbirmingham.com/team"
+        "profile_url": "https://www.linkedin.com/in/shruchak/?originalSubdomain=uk"
     },
     {
         "id": "c3",
@@ -27,7 +27,7 @@
         "current_position": "Researcher",
         "organization": "IISER Pune",
         "image": "/alumni-images/kushwaha Pragya.jpeg",
-        "profile_url": "https://students.iiserpune.ac.in/~pragya.kushwaha/"
+        "profile_url": "https://www.linkedin.com/in/dr-pragya-kushwaha-187b612a1/"
     },
     {
         "id": "c4",
@@ -36,17 +36,18 @@
         "thesis_title": "Experiments on enhancement of inter-stage transfer efficiency in laser cooling of strontium atoms",
         "current_position": "Co-founder & CTO",
         "organization": "GDQLabs",
-        "image": "/alumni-images/ Korak Biswas.png"
+        "image": "/alumni-images/ Korak Biswas.png",
+        "profile_url": "https://www.linkedin.com/in/korak-biswas-65452b159/?originalSubdomain=in"
     },
     {
         "id": "c5",
         "name": "Nashra Pistawala",
         "graduation_year": 2025,
         "thesis_title": "Crystal growth, magnetic and thermal properties of quasi two-dimensional quantum magnets",
-        "current_position": "PhD Candidate",
+        "current_position": "",
         "organization": "IISER Pune",
         "image": "/alumni-images/Nashra Pistawala.jpeg",
-        "profile_url": "https://www.iiserpune.ac.in/research/department/physics/people/faculty/associate-professors/sunil-nair/team"
+        "profile_url": "https://www.linkedin.com/in/nashra-pistawala-09a65b1ab/?originalSubdomain=in"
     },
     {
         "id": "c6",
@@ -55,7 +56,8 @@
         "thesis_title": "Magneto-Optical Trapping of Strontium Atoms for Optical Atomic Clock",
         "current_position": "Co-founder & Chief of Eng.",
         "organization": "GDQLabs",
-        "image": "/alumni-images/Kushal Patel.png"
+        "image": "/alumni-images/Kushal Patel.png",
+        "profile_url": "https://www.linkedin.com/in/kushal-patel-1591ab234/?originalSubdomain=in"
     },
     {
         "id": "c7",
@@ -64,7 +66,8 @@
         "thesis_title": "Strongly correlated oxides: A novel platform for 2D magnetism",
         "current_position": "Model Risk Management",
         "organization": "Morgan Stanley",
-        "image": "/alumni-images/Deepak Roy.webp"
+        "image": "/alumni-images/Deepak Roy.webp",
+        "profile_url": "https://www.linkedin.com/in/deepak-roy-phd-5400b9328/?originalSubdomain=in"
     },
     {
         "id": "c8",
@@ -73,7 +76,8 @@
         "thesis_title": "Charge Density Waves in Transition Metal Dichalcogenides",
         "current_position": "Postdoc",
         "organization": "Howard & Northeastern University",
-        "image": "/alumni-images/Imrankhan Mulani.jpg"
+        "image": "/alumni-images/Imrankhan Mulani.jpg",
+        "profile_url": "https://www.linkedin.com/in/mulani-imrankhan-6a729318a/?originalSubdomain=in"
     },
     {
         "id": "c9",
@@ -82,7 +86,8 @@
         "thesis_title": "Half-Heusler thermoelectrics: studying new paradigms via defects, entropy, and band engineering",
         "current_position": "Research Associate",
         "organization": "University of Warwick",
-        "image": "/alumni-images/Ankit Kumar.jpeg"
+        "image": "/alumni-images/Ankit Kumar.jpeg",
+        "profile_url": "https://www.linkedin.com/in/ankit-kumar-80294110a/?originalSubdomain=in"
     },
     {
         "id": "c10",
@@ -90,8 +95,9 @@
         "graduation_year": 2024,
         "thesis_title": "Supersymmetric Yang-Mills theories without anti-commuting variables",
         "current_position": "Researcher",
-        "organization": "Unknown",
-        "image": "/alumni-images/Saurabh Pant.jpeg"
+        "organization": "",
+        "image": "/alumni-images/Saurabh Pant.jpeg",
+        "profile_url": "https://www.linkedin.com/in/saurabh-pant-58a00474/?originalSubdomain=in"
     },
     {
         "id": "c11",
@@ -101,7 +107,7 @@
         "current_position": "Postdoctoral Fellow",
         "organization": "Virginia Tech",
         "image": "/alumni-images/Priya Batra.jpg",
-        "profile_url": "https://priyabatra.github.io/"
+        "profile_url": "https://www.linkedin.com/in/priya-batra-989217a5/"
     },
     {
         "id": "c12",
@@ -110,7 +116,8 @@
         "thesis_title": "Gated first passage processes",
         "current_position": "Joint Post-doc",
         "organization": "Santa Fe Institute & Princeton University",
-        "image": "/alumni-images/Aanjaneya Kumar.jpg"
+        "image": "/alumni-images/Aanjaneya Kumar.jpg",
+        "profile_url": "https://www.linkedin.com/in/aanjaneyak/"
     },
     {
         "id": "c13",
@@ -119,7 +126,8 @@
         "thesis_title": "Search for Supersymmetry in proton-proton collisions",
         "current_position": "Principal Engineer (Data Scientist)",
         "organization": "Global Foundries",
-        "image": "/alumni-images/Bhumika Kansal.jpg"
+        "image": "/alumni-images/Bhumika Kansal.jpg",
+        "profile_url": "https://www.linkedin.com/in/bhumika-kansal-aa6717101/"
     },
     {
         "id": "c14",
@@ -128,7 +136,8 @@
         "thesis_title": "Modulation of optoelectronic properties of layered two-dimensional materials by strain, twist and dielectric engineering",
         "current_position": "Postdoc",
         "organization": "CNRS IPCMS and ISIS, Strasbourg",
-        "image": "/alumni-images/Tamaghna Chowdhury.jpg"
+        "image": "/alumni-images/Tamaghna Chowdhury.jpg",
+        "profile_url": "https://www.linkedin.com/in/tamaghna-chowdhury-physics/?originalSubdomain=fr"
     },
     {
         "id": "c15",
@@ -138,7 +147,7 @@
         "current_position": "Postdoc",
         "organization": "Northeastern University, Boston",
         "image": "/alumni-images/Sayan Saha.jpg",
-        "profile_url": "https://sayan-saha.github.io/"
+        "profile_url": "https://www.linkedin.com/in/sayan-saha-78400b139/"
     },
     {
         "id": "c16",
@@ -148,6 +157,6 @@
         "current_position": "Post Doctoral Researcher",
         "organization": "Physikalisch Technische Bundesanstalt, Germany",
         "image": "/alumni-images/Shiv Sagar Maurya.jpeg",
-        "profile_url": "https://www.ptb.de/cms/en/ptb/fachabteilungen/abt4/fb-44/ag-444.html"
+        "profile_url": "http://linkedin.com/in/s-sagar-maurya-263705127/?originalSubdomain=in"
     }
 ]
