@@ -21,7 +21,7 @@ interface AlumniCardProps {
 
 export function AlumniCard({ alumnus }: AlumniCardProps) {
     const initials = alumnus.name.split(' ').map((n) => n[0]).join('').slice(0, 2).toUpperCase();
-    const basePath = '/alumni';
+    const basePath = process.env.NODE_ENV === 'production' ? '/alumni' : '';
     const imagePath = alumnus.image && alumnus.image.trim() !== ''
         ? `${basePath}${alumnus.image}`
         : `${basePath}/images/alumni/${alumnus.name}.jpg`;

@@ -21,7 +21,7 @@ export function HeroSection({ stats, onScrollDown }: HeroSectionProps) {
     return (
         <section className="relative px-6 min-h-screen flex flex-col justify-center bg-background overflow-hidden pt-24 lg:pt-0">
 
-            <div className="max-w-7xl mx-auto px-6 w-full grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+            <div className="max-w-7xl mx-auto px-0 lg:px-6 w-full grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
 
                 {/* Left: Text Content */}
                 <div className="lg:col-span-7 space-y-10">
@@ -49,7 +49,7 @@ export function HeroSection({ stats, onScrollDown }: HeroSectionProps) {
                     {/* Decorative background element */}
                     <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[120%] h-[120%] bg-main-gradient opacity-20 blur-3xl -z-10 rounded-full"></div>
 
-                    <div className="flex flex-col gap-8 lg:pl-12 border-l border-border/40">
+                    <div className="flex flex-col gap-5 lg:gap-8 lg:pl-12 lg:border-l border-l-0 border-border/40">
                         <div className="inline-flex items-center mb-6">
                             <span className="text-xs font-light text-primary bg-primary/5 px-3 py-1 rounded-full uppercase tracking-[0.2em] border border-primary/10">
                                 2024-25
@@ -68,11 +68,11 @@ export function HeroSection({ stats, onScrollDown }: HeroSectionProps) {
 
 function StatRow({ label, value }: { label: string, value: number | string }) {
     return (
-        <div className="group flex items-center justify-between gap-4 pr-4">
-            <span className="text-base font-medium text-muted-foreground uppercase tracking-wider group-hover:text-foreground transition-colors">
+        <div className="group flex items-center justify-between gap-4">
+            <span className="text-sm lg:text-base font-medium text-muted-foreground uppercase tracking-wider group-hover:text-foreground transition-colors">
                 {label}
             </span>
-            <span className="text-6xl font-serif text-foreground font-medium group-hover:scale-110 origin-right transition-transform duration-500 ease-out">
+            <span className="text-4xl lg:text-6xl font-serif text-foreground font-medium group-hover:scale-110 origin-right transition-transform duration-500 ease-out">
                 {value}
             </span>
         </div>
