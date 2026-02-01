@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  overflow-x: hidden;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0B0E14;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+@layer base {
+  :root {
+    /* Olive Green Theme - Light Mode Only */
+    --background: 60 20% 98%;
+    /* Very light cream/olive tint */
+    --foreground: 80 40% 15%;
+    /* Deep olive/gray */
+
+    --card: 0 0% 100%;
+    --card-foreground: 80 40% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 80 40% 15%;
+
+    --primary: 85 43% 38%;
+    /* The Olive Green */
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 85 30% 90%;
+    --secondary-foreground: 85 40% 20%;
+
+    --muted: 85 10% 92%;
+    --muted-foreground: 85 10% 40%;
+
+    --accent: 85 30% 90%;
+    --accent-foreground: 85 40% 20%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 60 9.1% 97.8%;
+
+    --border: 85 20% 88%;
+    --input: 85 20% 88%;
+    --ring: 85 43% 38%;
+
+    --radius: 0.5rem;
+  }
+
+  /* Dark mode removed as per request */
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
