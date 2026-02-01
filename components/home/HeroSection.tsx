@@ -24,13 +24,13 @@ export function HeroSection({ stats, onScrollDown }: HeroSectionProps) {
             <div className="max-w-7xl mx-auto px-0 lg:px-6 w-full grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
 
                 {/* Left: Text Content */}
-                <div className="lg:col-span-7 space-y-10">
-                    <h1 className="text-7xl lg:text-[7rem] font-bold tracking-tight text-foreground leading-[1] font-serif">
+                <div className="lg:col-span-7 space-y-6 lg:space-y-10">
+                    <h1 className="text-5xl lg:text-[7rem] font-bold tracking-tight text-foreground leading-[1] font-serif">
                         Beyond the <br />
                         <span className="text-primary">Thesis.</span>
                     </h1>
 
-                    <p className="text-2xl text-muted-foreground/80 max-w-2xl leading-relaxed font-light">
+                    <p className="text-lg lg:text-2xl text-muted-foreground/80 max-w-2xl leading-relaxed font-light">
                         A showcase of the diverse professional pathways taken by IISER Pune PhD graduates. Discover where they are making an impact today.
                     </p>
 
